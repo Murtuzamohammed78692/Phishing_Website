@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Decision Tree,95.75,96.25,96.25,96.25
+Random Forest,96.7,96.32,97.93,97.12
+Gradient Boosting,95.07,94.91,96.49,95.69
+SVM,94.71,94.25,96.57,95.4
